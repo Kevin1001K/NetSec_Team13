@@ -1,0 +1,744 @@
+{
+	"2010-3": {
+		"#start_timestamp": 1267398000.0,
+		"#end_timestamp": 1270072740.0,
+		"#bytes": {
+			"median": 172.12570437292
+		}
+	},
+	"2010-4": {
+		"#start_timestamp": 1270072800.0,
+		"#end_timestamp": 1272664740.0,
+		"#bytes": {
+			"median": 175.28163028646
+		}
+	},
+	"2010-5": {
+		"#start_timestamp": 1272664800.0,
+		"#end_timestamp": 1275343140.0,
+		"#bytes": {
+			"median": 129.31567394583
+		}
+	},
+	"2010-6": {
+		"#start_timestamp": 1275343200.0,
+		"#end_timestamp": 1277935140.0,
+		"#bytes": {
+			"median": 157.08321728125
+		}
+	},
+	"2010-7": {
+		"#start_timestamp": 1277935200.0,
+		"#end_timestamp": 1280613540.0,
+		"#bytes": {
+			"median": 157.630153250345
+		}
+	},
+	"2010-8": {
+		"#start_timestamp": 1280613600.0,
+		"#end_timestamp": 1283291940.0,
+		"#bytes": {
+			"median": 144.076242172915
+		}
+	},
+	"2010-9": {
+		"#start_timestamp": 1283292000.0,
+		"#end_timestamp": 1285883940.0,
+		"#bytes": {
+			"median": 137.8543971559
+		}
+	},
+	"2010-10": {
+		"#start_timestamp": 1285884000.0,
+		"#end_timestamp": 1288565940.0,
+		"#bytes": {
+			"median": 136.88849082153
+		}
+	},
+	"2010-11": {
+		"#start_timestamp": 1288566000.0,
+		"#end_timestamp": 1291157940.0,
+		"#bytes": {
+			"median": 132.63156240243
+		}
+	},
+	"2010-12": {
+		"#start_timestamp": 1291158000.0,
+		"#end_timestamp": 1293836340.0,
+		"#bytes": {
+			"median": 127.73090737569
+		}
+	},
+	"2011-1": {
+		"#start_timestamp": 1293836400.0,
+		"#end_timestamp": 1296514740.0,
+		"#bytes": {
+			"median": 124.71852196667001
+		}
+	},
+	"2011-2": {
+		"#start_timestamp": 1296514800.0,
+		"#end_timestamp": 1298933940.0,
+		"#bytes": {
+			"median": 115.73270536597
+		}
+	},
+	"2011-3": {
+		"#start_timestamp": 1298934000.0,
+		"#end_timestamp": 1301608740.0,
+		"#bytes": {
+			"median": 121.10866736319
+		}
+	},
+	"2011-4": {
+		"#start_timestamp": 1301608800.0,
+		"#end_timestamp": 1304200740.0,
+		"#bytes": {
+			"median": 129.56804281875
+		}
+	},
+	"2011-5": {
+		"#start_timestamp": 1304200800.0,
+		"#end_timestamp": 1306879140.0,
+		"#bytes": {
+			"median": 125.75802206736
+		}
+	},
+	"2011-6": {
+		"#start_timestamp": 1306879200.0,
+		"#end_timestamp": 1309471140.0,
+		"#bytes": {
+			"median": 122.222996130555
+		}
+	},
+	"2011-7": {
+		"#start_timestamp": 1309471200.0,
+		"#end_timestamp": 1312149540.0,
+		"#bytes": {
+			"median": 125.30081612986
+		}
+	},
+	"2011-8": {
+		"#start_timestamp": 1312149600.0,
+		"#end_timestamp": 1314827940.0,
+		"#bytes": {
+			"median": 123.54410902917
+		}
+	},
+	"2011-9": {
+		"#start_timestamp": 1314828000.0,
+		"#end_timestamp": 1317419940.0,
+		"#bytes": {
+			"median": 117.75501436041999
+		}
+	},
+	"2011-10": {
+		"#start_timestamp": 1317420000.0,
+		"#end_timestamp": 1320101940.0,
+		"#bytes": {
+			"median": 106.92727990380999
+		}
+	},
+	"2011-11": {
+		"#start_timestamp": 1320102000.0,
+		"#end_timestamp": 1322693940.0,
+		"#bytes": {
+			"median": 102.75573292091
+		}
+	},
+	"2011-12": {
+		"#start_timestamp": 1322694000.0,
+		"#end_timestamp": 1325372340.0,
+		"#bytes": {
+			"median": 118.39057210764
+		}
+	},
+	"2012-1": {
+		"#start_timestamp": 1325372400.0,
+		"#end_timestamp": 1328050740.0,
+		"#bytes": {
+			"median": 128.51304777894
+		}
+	},
+	"2012-2": {
+		"#start_timestamp": 1328050800.0,
+		"#end_timestamp": 1330556340.0,
+		"#bytes": {
+			"median": 155.95093712707998
+		}
+	},
+	"2012-3": {
+		"#start_timestamp": 1330556400.0,
+		"#end_timestamp": 1333231140.0,
+		"#bytes": {
+			"median": 139.04510990764
+		}
+	},
+	"2012-4": {
+		"#start_timestamp": 1333231200.0,
+		"#end_timestamp": 1335823140.0,
+		"#bytes": {
+			"median": 154.972375929515
+		}
+	},
+	"2012-5": {
+		"#start_timestamp": 1335823200.0,
+		"#end_timestamp": 1338501540.0,
+		"#bytes": {
+			"median": 159.95968313889
+		}
+	},
+	"2012-6": {
+		"#start_timestamp": 1338501600.0,
+		"#end_timestamp": 1341093540.0,
+		"#bytes": {
+			"median": 148.194486141665
+		}
+	},
+	"2012-7": {
+		"#start_timestamp": 1341093600.0,
+		"#end_timestamp": 1343771940.0,
+		"#bytes": {
+			"median": 184.35357677292
+		}
+	},
+	"2012-8": {
+		"#start_timestamp": 1343772000.0,
+		"#end_timestamp": 1346450340.0,
+		"#bytes": {
+			"median": 183.00679636735998
+		}
+	},
+	"2012-9": {
+		"#start_timestamp": 1346450400.0,
+		"#end_timestamp": 1349042340.0,
+		"#bytes": {
+			"median": 160.38028966319501
+		}
+	},
+	"2012-10": {
+		"#start_timestamp": 1349042400.0,
+		"#end_timestamp": 1351724340.0,
+		"#bytes": {
+			"median": 143.10170606110998
+		}
+	},
+	"2012-11": {
+		"#start_timestamp": 1351724400.0,
+		"#end_timestamp": 1354316340.0,
+		"#bytes": {
+			"median": 193.77063757847
+		}
+	},
+	"2012-12": {
+		"#start_timestamp": 1354316400.0,
+		"#end_timestamp": 1356994740.0,
+		"#bytes": {
+			"median": 171.47670268853997
+		}
+	},
+	"2013-1": {
+		"#start_timestamp": 1356994800.0,
+		"#end_timestamp": 1359673140.0,
+		"#bytes": {
+			"median": 176.9696691875
+		}
+	},
+	"2013-2": {
+		"#start_timestamp": 1359673200.0,
+		"#end_timestamp": 1362092340.0,
+		"#bytes": {
+			"median": 162.11653815077503
+		}
+	},
+	"2013-3": {
+		"#start_timestamp": 1362092400.0,
+		"#end_timestamp": 1364767140.0,
+		"#bytes": {
+			"median": 153.50964374306
+		}
+	},
+	"2013-4": {
+		"#start_timestamp": 1364767200.0,
+		"#end_timestamp": 1367359140.0,
+		"#bytes": {
+			"median": 139.236042856945
+		}
+	},
+	"2013-5": {
+		"#start_timestamp": 1367359200.0,
+		"#end_timestamp": 1370037540.0,
+		"#bytes": {
+			"median": 138.95728340208
+		}
+	},
+	"2013-6": {
+		"#start_timestamp": 1370037600.0,
+		"#end_timestamp": 1372629540.0,
+		"#bytes": {
+			"median": 139.430451475
+		}
+	},
+	"2013-7": {
+		"#start_timestamp": 1372629600.0,
+		"#end_timestamp": 1375307940.0,
+		"#bytes": {
+			"median": 140.73119150277998
+		}
+	},
+	"2013-8": {
+		"#start_timestamp": 1375308000.0,
+		"#end_timestamp": 1377986340.0,
+		"#bytes": {
+			"median": 146.04306547847
+		}
+	},
+	"2013-9": {
+		"#start_timestamp": 1377986400.0,
+		"#end_timestamp": 1380578340.0,
+		"#bytes": {
+			"median": 164.77680606799998
+		}
+	},
+	"2013-10": {
+		"#start_timestamp": 1380578400.0,
+		"#end_timestamp": 1383260340.0,
+		"#bytes": {
+			"median": 167.71070528125
+		}
+	},
+	"2013-11": {
+		"#start_timestamp": 1383260400.0,
+		"#end_timestamp": 1385852340.0,
+		"#bytes": {
+			"median": 181.09921372014
+		}
+	},
+	"2013-12": {
+		"#start_timestamp": 1385852400.0,
+		"#end_timestamp": 1388530740.0,
+		"#bytes": {
+			"median": 182.84931343889002
+		}
+	},
+	"2014-1": {
+		"#start_timestamp": 1388530800.0,
+		"#end_timestamp": 1391209140.0,
+		"#bytes": {
+			"median": 155.87557360069002
+		}
+	},
+	"2014-2": {
+		"#start_timestamp": 1391209200.0,
+		"#end_timestamp": 1393628340.0,
+		"#bytes": {
+			"median": 250.87438867326497
+		}
+	},
+	"2014-3": {
+		"#start_timestamp": 1393628400.0,
+		"#end_timestamp": 1396303140.0,
+		"#bytes": {
+			"median": 301.72069823889
+		}
+	},
+	"2014-4": {
+		"#start_timestamp": 1396303200.0,
+		"#end_timestamp": 1398895140.0,
+		"#bytes": {
+			"median": 246.63005510416502
+		}
+	},
+	"2014-5": {
+		"#start_timestamp": 1398895200.0,
+		"#end_timestamp": 1401573540.0,
+		"#bytes": {
+			"median": 203.28159302222
+		}
+	},
+	"2014-6": {
+		"#start_timestamp": 1401573600.0,
+		"#end_timestamp": 1404165540.0,
+		"#bytes": {
+			"median": 223.675103196875
+		}
+	},
+	"2014-7": {
+		"#start_timestamp": 1404165600.0,
+		"#end_timestamp": 1406843940.0,
+		"#bytes": {
+			"median": 218.35538761875
+		}
+	},
+	"2014-8": {
+		"#start_timestamp": 1406844000.0,
+		"#end_timestamp": 1409522340.0,
+		"#bytes": {
+			"median": 330.82644821806
+		}
+	},
+	"2014-9": {
+		"#start_timestamp": 1409522400.0,
+		"#end_timestamp": 1412114340.0,
+		"#bytes": {
+			"median": 368.56879799861
+		}
+	},
+	"2014-10": {
+		"#start_timestamp": 1412114400.0,
+		"#end_timestamp": 1414796340.0,
+		"#bytes": {
+			"median": 348.91859883403
+		}
+	},
+	"2014-11": {
+		"#start_timestamp": 1414796400.0,
+		"#end_timestamp": 1417388340.0,
+		"#bytes": {
+			"median": 413.6111172399
+		}
+	},
+	"2014-12": {
+		"#start_timestamp": 1417388400.0,
+		"#end_timestamp": 1420066740.0,
+		"#bytes": {
+			"median": 429.54724195972
+		}
+	},
+	"2015-1": {
+		"#start_timestamp": 1420066800.0,
+		"#end_timestamp": 1422745140.0,
+		"#bytes": {
+			"median": 435.44782120972
+		}
+	},
+	"2015-2": {
+		"#start_timestamp": 1422745200.0,
+		"#end_timestamp": 1425164340.0,
+		"#bytes": {
+			"median": 425.525292441665
+		}
+	},
+	"2015-3": {
+		"#start_timestamp": 1425164400.0,
+		"#end_timestamp": 1427839140.0,
+		"#bytes": {
+			"median": 386.34685783889
+		}
+	},
+	"2015-4": {
+		"#start_timestamp": 1427839200.0,
+		"#end_timestamp": 1430431140.0,
+		"#bytes": {
+			"median": 366.64680511007
+		}
+	},
+	"2015-5": {
+		"#start_timestamp": 1430431200.0,
+		"#end_timestamp": 1433109540.0,
+		"#bytes": {
+			"median": 404.12501291042
+		}
+	},
+	"2015-6": {
+		"#start_timestamp": 1433109600.0,
+		"#end_timestamp": 1435701540.0,
+		"#bytes": {
+			"median": 478.30091666736
+		}
+	},
+	"2015-7": {
+		"#start_timestamp": 1435701600.0,
+		"#end_timestamp": 1438379940.0,
+		"#bytes": {
+			"median": 539.35017323958
+		}
+	},
+	"2015-8": {
+		"#start_timestamp": 1438380000.0,
+		"#end_timestamp": 1441058340.0,
+		"#bytes": {
+			"median": 810.79714239792
+		}
+	},
+	"2015-9": {
+		"#start_timestamp": 1441058400.0,
+		"#end_timestamp": 1443650340.0,
+		"#bytes": {
+			"median": 633.3034290565951
+		}
+	},
+	"2015-10": {
+		"#start_timestamp": 1443650400.0,
+		"#end_timestamp": 1446332340.0,
+		"#bytes": {
+			"median": 1006.3799609931001
+		}
+	},
+	"2015-11": {
+		"#start_timestamp": 1446332400.0,
+		"#end_timestamp": 1448924340.0,
+		"#bytes": {
+			"median": 1007.5597370732501
+		}
+	},
+	"2015-12": {
+		"#start_timestamp": 1448924400.0,
+		"#end_timestamp": 1451602740.0,
+		"#bytes": {
+			"median": 1008.4644190792001
+		}
+	},
+	"2016-1": {
+		"#start_timestamp": 1451602800.0,
+		"#end_timestamp": 1454281140.0,
+		"#bytes": {
+			"median": 1067.1076516604
+		}
+	},
+	"2016-2": {
+		"#start_timestamp": 1454281200.0,
+		"#end_timestamp": 1456786740.0,
+		"#bytes": {
+			"median": 978.38293107153
+		}
+	},
+	"2016-3": {
+		"#start_timestamp": 1456786800.0,
+		"#end_timestamp": 1459461540.0,
+		"#bytes": {
+			"median": 926.5337330125001
+		}
+	},
+	"2016-4": {
+		"#start_timestamp": 1459461600.0,
+		"#end_timestamp": 1462053540.0,
+		"#bytes": {
+			"median": 996.66292891042
+		}
+	},
+	"2016-5": {
+		"#start_timestamp": 1462053600.0,
+		"#end_timestamp": 1464731940.0,
+		"#bytes": {
+			"median": 842.79355402292
+		}
+	},
+	"2016-6": {
+		"#start_timestamp": 1464732000.0,
+		"#end_timestamp": 1467323940.0,
+		"#bytes": {
+			"median": 881.87001486678
+		}
+	},
+	"2016-7": {
+		"#start_timestamp": 1467324000.0,
+		"#end_timestamp": 1470002340.0,
+		"#bytes": {
+			"median": 941.6391765243
+		}
+	},
+	"2016-8": {
+		"#start_timestamp": 1470002400.0,
+		"#end_timestamp": 1472680740.0,
+		"#bytes": {
+			"median": 894.97616032361
+		}
+	},
+	"2016-9": {
+		"#start_timestamp": 1472680800.0,
+		"#end_timestamp": 1475272740.0,
+		"#bytes": {
+			"median": 826.708777454165
+		}
+	},
+	"2016-10": {
+		"#start_timestamp": 1475272800.0,
+		"#end_timestamp": 1477954740.0,
+		"#bytes": {
+			"median": 831.7702190756901
+		}
+	},
+	"2016-11": {
+		"#start_timestamp": 1477954800.0,
+		"#end_timestamp": 1480546740.0,
+		"#bytes": {
+			"median": 839.094096236805
+		}
+	},
+	"2016-12": {
+		"#start_timestamp": 1480546800.0,
+		"#end_timestamp": 1483225140.0,
+		"#bytes": {
+			"median": 1067.5196398486
+		}
+	},
+	"2017-1": {
+		"#start_timestamp": 1483225200.0,
+		"#end_timestamp": 1485903540.0,
+		"#bytes": {
+			"median": 1108.5089466443999
+		}
+	},
+	"2017-2": {
+		"#start_timestamp": 1485903600.0,
+		"#end_timestamp": 1488322740.0,
+		"#bytes": {
+			"median": 1147.9912220052
+		}
+	},
+	"2017-3": {
+		"#start_timestamp": 1488322800.0,
+		"#end_timestamp": 1490997540.0,
+		"#bytes": {
+			"median": 1127.1926874265
+		}
+	},
+	"2017-4": {
+		"#start_timestamp": 1490997600.0,
+		"#end_timestamp": 1493589540.0,
+		"#bytes": {
+			"median": 1085.48565339305
+		}
+	},
+	"2017-5": {
+		"#start_timestamp": 1493589600.0,
+		"#end_timestamp": 1496267940.0,
+		"#bytes": {
+			"median": 1053.9297776535
+		}
+	},
+	"2017-6": {
+		"#start_timestamp": 1496268000.0,
+		"#end_timestamp": 1498859940.0,
+		"#bytes": {
+			"median": 1008.526014566
+		}
+	},
+	"2017-7": {
+		"#start_timestamp": 1498860000.0,
+		"#end_timestamp": 1501538340.0,
+		"#bytes": {
+			"median": 936.62938365694
+		}
+	},
+	"2017-8": {
+		"#start_timestamp": 1501538400.0,
+		"#end_timestamp": 1504216740.0,
+		"#bytes": {
+			"median": 963.31163432014
+		}
+	},
+	"2017-9": {
+		"#start_timestamp": 1504216800.0,
+		"#end_timestamp": 1506808740.0,
+		"#bytes": {
+			"median": 902.33664548125
+		}
+	},
+	"2017-10": {
+		"#start_timestamp": 1506808800.0,
+		"#end_timestamp": 1509490740.0,
+		"#bytes": {
+			"median": 987.43793050474
+		}
+	},
+	"2017-11": {
+		"#start_timestamp": 1509490800.0,
+		"#end_timestamp": 1512082740.0,
+		"#bytes": {
+			"median": 1223.5899025882002
+		}
+	},
+	"2017-12": {
+		"#start_timestamp": 1512082800.0,
+		"#end_timestamp": 1514761140.0,
+		"#bytes": {
+			"median": 1250.4996458299
+		}
+	},
+	"2018-1": {
+		"#start_timestamp": 1514761200.0,
+		"#end_timestamp": 1517439540.0,
+		"#bytes": {
+			"median": 1169.9586148424
+		}
+	},
+	"2018-2": {
+		"#start_timestamp": 1517439600.0,
+		"#end_timestamp": 1519858740.0,
+		"#bytes": {
+			"median": 1181.02778890695
+		}
+	},
+	"2018-3": {
+		"#start_timestamp": 1519858800.0,
+		"#end_timestamp": 1522533540.0,
+		"#bytes": {
+			"median": 1318.1506194181002
+		}
+	},
+	"2018-4": {
+		"#start_timestamp": 1522533600.0,
+		"#end_timestamp": 1525125540.0,
+		"#bytes": {
+			"median": 1533.1532152914501
+		}
+	},
+	"2018-5": {
+		"#start_timestamp": 1525125600.0,
+		"#end_timestamp": 1527803940.0,
+		"#bytes": {
+			"median": 1304.5304736458002
+		}
+	},
+	"2018-6": {
+		"#start_timestamp": 1527804000.0,
+		"#end_timestamp": 1530395940.0,
+		"#bytes": {
+			"median": 1516.1894695669498
+		}
+	},
+	"2018-8": {
+		"#start_timestamp": 1533074400.0,
+		"#end_timestamp": 1535752740.0,
+		"#bytes": {
+			"median": 1508.57906812745
+		}
+	},
+	"2019-6": {
+		"#start_timestamp": 1559340000.0,
+		"#end_timestamp": 1561931940.0,
+		"#bytes": {
+			"median": 1367.5424109517498
+		}
+	},
+	"2019-7": {
+		"#start_timestamp": 1561932000.0,
+		"#end_timestamp": 1564610340.0,
+		"#bytes": {
+			"median": 1277.58520597915
+		}
+	},
+	"2019-8": {
+		"#start_timestamp": 1564610400.0,
+		"#end_timestamp": 1567288740.0,
+		"#bytes": {
+			"median": 1401.5995177351
+		}
+	},
+	"2019-9": {
+		"#start_timestamp": 1567288800.0,
+		"#end_timestamp": 1569880740.0,
+		"#bytes": {
+			"median": 1555.4141863931
+		}
+	},
+	"2019-12": {
+		"#start_timestamp": 1575154800.0,
+		"#end_timestamp": 1577833140.0,
+		"#bytes": {
+			"median": 1569.5009460549
+		}
+	}
+}
