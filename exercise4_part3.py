@@ -32,7 +32,7 @@ def create_scatter_plot(csv_file, title=""):
     y = np.array(dstIP_int_list)
 
     ax = axes[0]
-    ax.scatter(x, y, c='blue', alpha=0.6, edgecolors='black')
+    ax.scatter(x, y, c='blue', alpha=0.1, edgecolors='black')
     ax.set_title('Scatter Plot of Source vs Destination IPs')
     ax.set_xlabel('Source IP (as integer)')
     ax.set_ylabel('Destination IP (as integer)')
@@ -42,7 +42,7 @@ def create_scatter_plot(csv_file, title=""):
     y = np.array(dstPort_list)
 
     ax = axes[1]
-    ax.scatter(x, y, c='blue', alpha=0.6, edgecolors='black')
+    ax.scatter(x, y, c='blue', alpha=0.1, edgecolors='black')
     ax.set_xlabel('Source IP (as integer)')
     ax.set_ylabel('Destination Port (as integer)')
     ax.set_title('Scatter Plot of Source vs Destination Port')
@@ -52,7 +52,7 @@ def create_scatter_plot(csv_file, title=""):
     y = np.array(dstPort_list)
 
     ax = axes[2]
-    ax.scatter(x, y, c='blue', alpha=0.6, edgecolors='black')
+    ax.scatter(x, y, c='blue', alpha=0.1, edgecolors='black')
     ax.set_xlabel('Destination IP (as integer)')
     ax.set_ylabel('Destination Port (as integer)')
     ax.set_title('Scatter Plot of Destination vs Destination Port')

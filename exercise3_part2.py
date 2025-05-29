@@ -145,12 +145,18 @@ def rep_18b():
 def rep_18b_tables():
     statistic_A_dict = rep_18a()
     statistic_B_dict = rep_18b()
+
+    # Convert Statistic from per day top per hour
     statistic_dict = {
-        "Month File Statistic": statistic_A_dict,
-        "Year File Statistic": statistic_B_dict
+        "Month File Statistic": {
+            "index": ["#pkts/hour", "#bytes/hour", "#uIPs/hour", "#uIPs/hour"],
+            "values": statistic_A_dict,
+        },
+        "Year File Statistic": {
+            "index": ["#pkts/day", "#bytes/day", "#uIPs/day", "#uIPs/day"],
+            "values": statistic_B_dict,
+        }
     }
-    
-    index_table = ["#pkts/hour", "#bytes/hour", "#uIPs/hour", "#uIPs/hour"]
 
     for title, stat_dict in statistic_dict.items():
         table_dict = {
@@ -159,13 +165,13 @@ def rep_18b_tables():
             "median": [],
             "std_dev": []
         }
-        for key in stat_dict:
-            table_dict["total_sum"].append(stat_dict[key]["total_sum"])
-            table_dict["mean"].append(stat_dict[key]["mean"])
-            table_dict["median"].append(stat_dict[key]["median"])
-            table_dict["std_dev"].append(stat_dict[key]["std_dev"])
+        for key in stat_dict["values"]:
+            table_dict["total_sum"].append(stat_dict["values"][key]["total_sum"])
+            table_dict["mean"].append(stat_dict["values"][key]["mean"])
+            table_dict["median"].append(stat_dict["values"][key]["median"])
+            table_dict["std_dev"].append(stat_dict["values"][key]["std_dev"])
 
-        df = pd.DataFrame(table_dict, index=index_table)
+        df = pd.DataFrame(table_dict, index=stat_dict["index"])
         
         fig, ax = plt.subplots(figsize=(8, 2.5))
         fig.suptitle(title, fontsize=14, weight='bold', y=0.8)
@@ -393,14 +399,14 @@ if __name__ == "__main__":
     # =================================================================================
     # === Part 2: rep-18a
     # =================================================================================
-    rep_18a()
+    # rep_18a()
 
     # =================================================================================
     # === Part 2: rep-18b
     # =================================================================================
-    rep_18b()
+    # rep_18b()
 
     rep_18b_tables()
 
-    rep_18b_diagrams()
+    # rep_18b_diagrams()
 

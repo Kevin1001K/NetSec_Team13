@@ -129,12 +129,12 @@ def rep_15_diagrams(source_file):
         },
         "Unique IP sources": {
             "title": "Number of Unique IP sources per hour (daily average)",
-            "ylabel": "#bytes/hour [millions]",
+            "ylabel": "#uIPs/hour [millions]",
             "values": uip_src_list
         },
         "Unique IP destinations": {
             "title": "Number of Unique IP destinations per hour (daily average)",
-            "ylabel": "#bytes/hour [millions]",
+            "ylabel": "#uIPd/hour [millions]",
             "values": uip_dst_list
         },
     }
